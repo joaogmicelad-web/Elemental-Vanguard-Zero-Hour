@@ -1,0 +1,1 @@
+este jogo é um jogo de tiro em que duas equipes a azul e a vermelha se enfrentam e você e mais dois npcs azuis enfrentam alguns npcs vermelhos,o jogo conta com armas,poderes de fogo gelo e raio,conta com você e dois parceiros e mais alguns inimigos e tambem conta com uma arena de combate. 
